@@ -11,7 +11,7 @@
 3. Provide an app name and select the development slack workspace.
 4. Click "Create App".
 5. Select Bots.
-6. Add a bot user, provide a display name and default username.
+6. Add a bot user, provide a display name and a default username.
 7. Click save changes.
 8. Click the Basic Information tab on the left menu.
 9. Click "Install your app to your workspace".
