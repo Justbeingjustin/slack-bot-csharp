@@ -29,6 +29,8 @@ Provide the API token in the app.config.
 </configuration>
 ```
 
+![grab-landing-page](https://github.com/Justbeingjustin/slack-bot-csharp/blob/master/Images/Unassign.gif)
+
 ## Contributing
 
 Pull requests are welcome. 
